@@ -62,3 +62,6 @@
   outline: none;
   border: none;
 }
+#select ul.open {
+  max-height: 300px;
+}
